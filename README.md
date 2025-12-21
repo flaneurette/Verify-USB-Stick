@@ -3,7 +3,9 @@ Verify files on a USB stick, to detect if stick has gone corrupted.
 
 ## Installation
 
-Place the `generate_hashes.bat` file on a USB stick and double click it to create hashes for all files.
+Place the .bat files file on a USB stick and double click it to create hashes/verify for all files.
+
+Use the `generate_hashes.bat` to scan the root and produce hashes.
 
 ## Recursive
 
