@@ -21,4 +21,4 @@ Get-FileHash file.bin -Algorithm SHA256
 
 ## Recursive verify
 
-If you used `recursive.bat` run `check-recursive.bat` to verify
+If you used `generate-recursive.bat` run `check-recursive.bat` to verify
