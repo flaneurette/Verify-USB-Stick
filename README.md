@@ -9,7 +9,7 @@ Use the `generate-hashes.bat` to scan the root and produce hashes.
 
 ## Recursive
 
-Use the `recursive.bat` to scan all folders instead of the root.
+Use the `generate-recursive.bat` to scan all folders instead of the root.
 
 ## Verify
 
