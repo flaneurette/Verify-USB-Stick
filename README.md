@@ -5,16 +5,18 @@ Verify files on a USB stick, to detect if stick has gone corrupted.
 
 Place the `generate_hashes.bat` file on a USB stick and double click it to create hashes for all files.
 
+## Recursive
+
 Use the `recursive.bat` to scan all folders instead of the root.
 
 ## Verify
 
-Lateron, you can verify the files again in powershell:
+Later on, you can verify the files again in powershell per file:
 
 ```powershell
 Get-FileHash file.bin -Algorithm SHA256
 ```
 
-## Recursive
+## Recursive verify
 
-If you used `recursive.bat` run `check-recursive.bat`
+If you used `recursive.bat` run `check-recursive.bat to verify
