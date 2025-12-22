@@ -1,5 +1,5 @@
 # Verify-USB-Stick
-Verify files on a USB stick, to detect if stick has gone corrupted or if *someone* or *something* changed it.
+Verify files on a USB stick, to detect if stick has gone corrupt or if *someone* or *something* changed it.
 
 ## Installation
 
